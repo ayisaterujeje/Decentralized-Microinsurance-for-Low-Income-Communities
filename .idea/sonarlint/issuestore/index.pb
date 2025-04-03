@@ -13,3 +13,7 @@ N
 contracts/policy-creation.clar,8/d/8d387e37c8c814cbc899d43d061537c30398a8d8
 M
 tests/policy-creation.test.ts,d/5/d5949131f1c975b37e70377913d1daa06bb8825e
+Q
+!contracts/premium-collection.clar,0/9/091e3fcf4ab84cd7fc4999fec4e213257e29d9d8
+P
+ tests/premium-collection.test.ts,7/e/7e4f79f6580346ded4421855e2313435d8e94ed7
